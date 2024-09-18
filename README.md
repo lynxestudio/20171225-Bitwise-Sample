@@ -14,7 +14,7 @@
             <p align="justify">The bitwise complement or NOT is used to flip the bits of a value, this operator is unary and inverts the bit value. Since this operator is a unary operator it cannot be combined with the = sign.</p>
             <div><b>Fig 1 Example of bitwise NOT operator</b></div><br />
             <div>
-<img src="picture_library/bitwiseops/not.png" />
+<img src="images/not.png" />
 </div><br />
             <h3>Bitwise XOR</h3>
             <p>
@@ -22,7 +22,7 @@
             </p>
             <div><b>Fig 2 Example of bitwise XOR Operator</b></div><br />
             <div>
-<img src="picture_library/bitwiseops/xor.png" />
+<img src="images/xor.png" />
 </div><br />
             <h3>Bitwise OR</h3>
             <p align="justify">
@@ -30,13 +30,13 @@
             </p>
             <div><b>Fig 3 Example of bitwise OR operator</b></div><br />
             <div>
-<img src="picture_library/bitwiseops/or.png" />
+<img src="images/or.png" />
 </div><br />
             <h3>Bitwise AND</h3>
             <p align="justify">The bitwise AND operator produces a one in the output bit if both input bits are one; otherwise it produces a zero.</p>
             <div><b>Fig 4 Example of bitwise AND operator</b></div><br />
             <div>
-<img src="picture_library/bitwiseops/and.png" />
+<img src="images/and.png" />
 </div><br />
             <p align="justify">
             When using the bitwise operator, it’s useful to display values in binary to show the precise effects of these operators.
@@ -47,17 +47,17 @@
             </p>
             <div><b>Fig 1 Testing the AND operator</b></div><br />
             <div>
-<img src="picture_library/bitwiseops/fig1.png" />
+<img src="images/fig1.png" />
 </div><br />
             <div><b>Fig 2 Testing the Inclusive OR operator</b></div><br />
             <div>
-<img src="picture_library/bitwiseops/fig2.png" />
+<img src="images/fig2.png" />
 </div><br />
             <div><b>Fig 3 Testing the exclusive OR operator</b></div><br />
             <div>
-<img src="picture_library/bitwiseops/fig3.png" />
+<img src="images/fig3.png" />
 </div><br />
             <div><b>Fig 4 Testing the NOT operator, this operator is unary, so there is not result using two integers.</b></div><br />
             <div>
-<img src="picture_library/bitwiseops/fig4.png" />
+<img src="images/fig4.png" />
 </div>
